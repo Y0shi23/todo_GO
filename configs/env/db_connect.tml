@@ -1,0 +1,7 @@
+[database]
+DB_USER      = "fumi042"
+DB_PASS      = "Yoshifumi_01"
+DB_NAME      = "TODO"
+DB_HOST      = "localhost"
+DB_PORT      = 3306
+DB_PARSETIME = "true"

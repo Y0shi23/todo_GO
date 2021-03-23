@@ -1,0 +1,7 @@
+[mysql]
+  dbname  = "TODO"
+  host    = "localhost"
+  port    = 3306
+  user    = "fumi042"
+  pass    = "Yoshifumi_01"
+  sslmode = "false"
